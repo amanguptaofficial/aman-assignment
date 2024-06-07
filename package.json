@@ -1,0 +1,19 @@
+{
+  "name": "aman-assignment",
+  "version": "1.0.0",
+  "description": "\"here i am creating project using middleware assignment\"",
+  "main": "index.js",
+  "scripts": {
+    "start": "npx nodemon index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "aman gupta",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.19.2",
+    "mongoose": "^8.4.1"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.2"
+  }
+}
