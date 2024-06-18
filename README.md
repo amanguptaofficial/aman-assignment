@@ -39,7 +39,3 @@ If present, check that the token is valid.
 - Write a **DELETE api /users/:userId** that takes the userId in the path params and marks the isDeleted attribute for a user as true. Check that request must contain **x-auth-token** header. If absent, return a suitable error.
 - Once, all the apis are working fine, move the authentication related code in a middleware called auth.js
 - Add this middleware at route level in the routes where applicable.
-
-
-
-mongodb+srv://amangupta:Opx0adQCbdyU0RpE@aman.id6td9f.mongodb.net/projectTwo
