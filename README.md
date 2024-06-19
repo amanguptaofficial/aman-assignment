@@ -10,7 +10,7 @@
 - For this assignment you have to create a new branch - assignment/emailSending
 
 ```
- 	{
+{
   "from": "xxxyyyy123@gmail.com",
   "to": "ramshankar@gmail.com",
   "subject": "for testing purpose2",
